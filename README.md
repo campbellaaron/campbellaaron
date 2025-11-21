@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @campbellaaron
-- 👀 I’m now an LLC founder of Lickbeans Interactive.
+- 👀 I’m now an LLC founder of <a href="https://lickbeansinteractive.com" target="_blank">Lickbeans Interactive</a>.
 - 🌱 I’m currently learning Unity and Unreal Engine 5, as well as attending university for computer science and cybersecurity
 - 💞️ I’m building a space colony RPG sim (inspired by Stardew Valley and Mass Effect and The Expanse)
 - 📫 How to reach me: 
